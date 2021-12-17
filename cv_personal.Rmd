@@ -1,0 +1,154 @@
+---
+title: "Gratchela D. Rodrigues"
+author: Grati Dutra
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+Contato {#contact}
+--------------------------------------------------------------------------------
+
+- `r icons::fontawesome("envelope", style = "solid")`gratirodrigues.gdr@gmail.com
+- `r icons::fontawesome("github")` [github/gratidutra](https://github.com/gratidutra)
+- `r icons::academicons("orcid")` [0000-0003-1120-7659](https://orcid.org/0000-0003-1120-7659)
+- `r icons::academicons("lattes")` [ 9909676760166109](http://lattes.cnpq.br/9909676760166109)
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+- `r icons::fontawesome("r-project")` [`R`](https://www.r-project.org/)
+- `r icons::fontawesome("chart-line")` [`Prophet`](https://facebook.github.io/prophet/)
+- `r icons::fontawesome("circle-notch")`[`Looker`](https://looker.com/)
+- `r icons::fontawesome("markdown")` [`markdown`](https://daringfireball.net/projects/markdown/)
+- `r icons::fontawesome("code-branch")` [`git`](https://git-scm.com/)
+- `r icons::fontawesome("python")` [`python`](https://www.python.org/)
+- `r icons::fontawesome("terminal")` [`bash (básico)`](https://www.gnu.org/software/bash/)
+- `r icons::fontawesome("quora")` [`QGIS`](https://qgis.org/en/site/)
+- `r icons::fontawesome("linux")` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
+
+Línguas {#language}
+--------------------------------------------------------------------------------
+- Português (Falante nativo)
+- Inglês (intemediário)
+- Espanhol (básico)
+
+Main
+================================================================================
+
+Gratchela D. Rodrigues {#title}
+--------------------------------------------------------------------------------
+
+Bióloga e Cientista de Dados. 
+Possuo experiência em modelagem de distribuição de espécies, análise de dados ecológicos e espaciais.
+De um mode geral possuio experiências em ciência de dados compreendendo desde a limpeza até a modelagem e visualização de dados.
+
+Formação {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universidade Federal de Pelotas (UFPel)
+
+[Bacharelado em Ciências Biológicas](https://institucional.ufpel.edu.br/cursos/cod/4110)
+
+Pelotas, RS, Brasil
+
+2016 - 2021
+
+**Tese**: Detecção molecular de *Trypanosoma sp.* em *Tabanus triangulum* (Diptera:
+Tabanidae) da Planície Costeira do Rio Grande do Sul, Brasil. 
+
+**Orientador**: Prof. Dr. Rodrigo Ferreira Krüger
+
+
+Experiência na Área da Pesquisa {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Biologia Molecular
+
+[Laboratório de Genômica Estrutural](https://wp.ufpel.edu.br/ppgbiotec/infraestrutura/pesquisa/laboratorio-de-genomica-estrutural/), Biotecnologia - UFPel
+
+Pelotas, Brasil
+
+2018 - 2020
+
+- Rotina de extração, PCR, purificação e sequenciamento de DNA de parasitos e vetores.
+
+### Análise de Dados Biológicos
+
+[Laboratório de Ecologia de Parasitos e Vetores](https://wp.ufpel.edu.br/nulab/lepav/), Dpto de Parasitologia e Microbiologia - UFPel.
+
+Pelotas, RS
+
+2015 - 2016
+
+- Modelagem de distribuição de espécies
+- Análise estatística de experimentos de campo e laboratoriais
+- Análise de morfometria geométrica 
+
+
+Experiência Profissional {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Cientista de Dados
+
+[Melhor Envio](https://melhorenvio.com.br/)
+
+Pelotas, RS
+
+2020
+
+- Rotinas de processamento de dados, 
+- Desenvolvimento e implementação na ETL de modelos de machine learning
+- Criação e modelagem de dados no looker
+- Auxílio na tomada de decisão
+- Construção de OKR's, KPI's dos setores, estudos de precificação e markup
+
+Formação Complementar {data-icon=book}
+--------------------------------------------------------------------------------
+
+### Intermediate R
+
+[Datacamp](https://app.datacamp.com/)
+
+N/A
+
+2021
+
+### Data Manipulation with data.table in R
+
+[Datacamp](https://app.datacamp.com/)
+
+N/A
+
+2021
+
+### Writing Efficient R Code
+
+[Datacamp](https://app.datacamp.com/)
+
+N/A
+
+2021
+
+### Scalable Data Processing in R
+
+[Datacamp](https://app.datacamp.com/)
+
+N/A
+
+2021
+
+### Building Web Applications with Shiny in R
+
+[Datacamp](https://app.datacamp.com/)
+
+N/A
+
+2021
+
