@@ -7,7 +7,7 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
 Aside
@@ -20,6 +20,7 @@ Contato {#contact}
 --------------------------------------------------------------------------------
 
 - `r icons::fontawesome("envelope", style = "solid")`gratirodrigues.gdr@gmail.com
+- `r icons::fontawesome("linkedin")`[grati-rodrigues](https://www.linkedin.com/in/grati-rodrigues-135620102/)
 - `r icons::fontawesome("github")` [github/gratidutra](https://github.com/gratidutra)
 - `r icons::academicons("orcid")` [0000-0003-1120-7659](https://orcid.org/0000-0003-1120-7659)
 - `r icons::academicons("lattes")` [ 9909676760166109](http://lattes.cnpq.br/9909676760166109)
@@ -51,7 +52,7 @@ Gratchela D. Rodrigues {#title}
 
 Bióloga e Cientista de Dados. 
 Possuo experiência em modelagem de distribuição de espécies, análise de dados ecológicos e espaciais.
-De um mode geral possuio experiências em ciência de dados compreendendo desde a limpeza até a modelagem e visualização de dados.
+De um modo geral possuo experiência em ciência de dados que vão desde a limpeza até a modelagem e visualização de dados.
 
 Formação {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
